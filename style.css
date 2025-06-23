@@ -4,7 +4,7 @@ body {
         }
 
         .hero-section {
-            background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.65)), url('/images/tung1.png') no-repeat center center;
+            background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.65)), url('images/tung1.png') no-repeat center center;
             background-size: cover;
             height: 100vh; 
             display: flex;
